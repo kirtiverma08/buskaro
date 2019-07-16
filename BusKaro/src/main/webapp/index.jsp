@@ -31,10 +31,10 @@
       <ul class="navbar-nav ml-auto">
      
         <li class="nav-item">
-          <a class="nav-link" href="contactus.html">Contact Us</a>
+          <a class="nav-link" href="contactus/contact">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="user/loginForm">Login</a>
+          <a class="nav-link" href="login/loginForm">Login</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="user/signupForm">Sign Up</a>
@@ -78,7 +78,7 @@
 			
 					
 <br><br>			
-<input type="submit" name="Submit">
+<input type="submit" name="Search">
 </form>
 
 

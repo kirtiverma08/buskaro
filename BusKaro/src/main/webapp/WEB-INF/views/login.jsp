@@ -15,8 +15,10 @@
 
 </head>
 <body>
-<nav class="navbar navbar-dark bg-dark">
-  <div class="container">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+   <a class="navbar-brand">
+    <img src="bird.jpg" alt="Logo" style="width:40px;">
+  </a>
   
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,7 +29,7 @@
       <ul class="navbar-nav ml-auto">
      
         <li class="nav-item">
-          <a class="nav-link" href="contactus.html">Contact Us</a>
+          <a class="nav-link" href="contactus.jsp">Contact Us</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="login.jsp">Login</a>

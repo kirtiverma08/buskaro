@@ -57,6 +57,9 @@ public class User
 	public void setDob(String dob) {
 		this.dob = dob;
 	}
+	public User() {
+		
+	}
 	
 
 }
